@@ -4,7 +4,7 @@
 👋 Hi! I’m a Mathematics student at Universitas Brawijaya with a passion for **Machine Learning, Data Science, and Computational Mathematics**. Currently, I’m participating in the **DBS Foundation 2025 Coding Camp** to enhance my skills in Machine Learning.  
 
 🔢 My academic background gives me strong analytical and problem-solving skills, and I love applying mathematical concepts to real-world problems through coding.  
-
+---
 ### 📌 Interests  
 - Machine Learning & AI  
 - Data Science & Analytics  
