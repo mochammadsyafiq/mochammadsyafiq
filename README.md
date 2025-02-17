@@ -30,7 +30,7 @@
 ---  
 
 ## 📫 Get in Touch   
-💼 LinkedIn: [linkedin.com/in/mochammad-syafiq-ilallah-a157a224b/](#)  
+💼 LinkedIn: linkedin.com/in/mochammad-syafiq-ilallah-a157a224b/ 
 
 ### Github Statistic
 <p align="left">
