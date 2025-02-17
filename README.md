@@ -1,10 +1,34 @@
-# Halo semua! 
+## 🎯 About Me  
+**Mochammad Syafiq Ilallah**  
+  
+👋 Hi! I’m a Mathematics student at Universitas Brawijaya with a passion for **Machine Learning, Data Science, and Computational Mathematics**. Currently, I’m participating in the **DBS Foundation 2025 Coding Camp** to enhance my skills in Machine Learning.  
 
-Perkenalkan nama saya **Mochammad Syafiq Ilallah**.<br>
+🔢 My academic background gives me strong analytical and problem-solving skills, and I love applying mathematical concepts to real-world problems through coding.  
 
-Saya seorang **Mahasiswa dan Student** di [Dicoding](https://www.dicoding.com/).<br>
+### 📌 Interests  
+- Machine Learning & AI  
+- Data Science & Analytics  
+- Computational Mathematics  
+- Optimization & Numerical Methods  
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mochammad-syafiq-ilallah-a157a224b/)ku ya.
+---  
+
+## 🛠 Tech Stack  
+💻 **Programming Languages:** Python, MATLAB, R  
+📊 **Machine Learning & Data Science:** Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib  
+🧮 **Mathematics & Algorithms:** Numerical Methods, Optimization, Statistics, Linear Algebra  
+📚 **Tools & Platforms:** GitHub, Google Colab  
+
+---
+
+## 🎓 Education  
+🎓 **Universitas Brawijaya** — B.Sc. in Mathematics (2022 - Present)  
+📜 **DBS Foundation 2025 Coding Camp** — Machine Learning Student  
+
+---  
+
+## 📫 Get in Touch   
+💼 LinkedIn: [linkedin.com/in/mochammad-syafiq-ilallah-a157a224b/](#)  
 
 ### Github Statistic
 <p align="left">
